@@ -11,6 +11,8 @@ $ go get github.com/cloudcredo/dockpush
 $ cf install-plugin $GOPATH/bin/dockpush
 ```
 
+Please note - DockPush requires Cloud Foundry CLI 6.8.0 or later.
+
 ## Usage
 
 ```
