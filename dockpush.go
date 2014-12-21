@@ -1,9 +1,3 @@
-/**
-* This is an example plugin where we use both arguments and flags. The plugin
-* will echo all arguments passed to it. The flag -uppercase will upcase the
-* arguments passed to the command. The help flag will print the usage text for
-* this command and exit, ignoring any other arguments passed.
- */
 package main
 
 import (
