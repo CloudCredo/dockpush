@@ -1,3 +1,5 @@
+# PLEASE NOTE - this repository has been superceeded by the [diego cli plugin](https://github.com/cloudfoundry-incubator/diego-cli-plugin).
+
 # DockPush
 
 Push Docker images into your Diego-powered Cloud Foundry.
